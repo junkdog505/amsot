@@ -51,7 +51,7 @@ export default {
       this.loading = true
       setTimeout(() => {
         this.loading = false
-      }, 300)
+      }, 200)
       
       // Determinar la dirección de la transición
       const toDepth = this.getRouteDepth(to)

@@ -10,7 +10,7 @@
       </div>
       <div class="hero-container">
         <div class="hero-content">
-          <h1 class="hero-title">Hola, soy [Tu Nombre]</h1>
+          <h1 class="hero-title">Hola, soy Cristian</h1>
           <p class="hero-description">
             Desarrollador Full Stack apasionado por crear experiencias digitales 
             excepcionales. Especializado en Vue.js y tecnologías modernas, 
